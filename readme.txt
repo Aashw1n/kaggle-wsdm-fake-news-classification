@@ -9,5 +9,8 @@ Pandas
 Numpy 
 Matplotlib
 
+- Data was very noisy
 - Not enough processing power to run for more epoch (Getting BSoD)
 - Model was overfitted
+
+- Done solo, this was kinda hard to get right. Need more theory and math. 
