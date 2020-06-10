@@ -9,3 +9,5 @@ Pandas
 Numpy 
 Matplotlib
 
+- Not enough processing power to run for more epoch (Getting BSoD)
+- Model was overfitted
